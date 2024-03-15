@@ -1,10 +1,11 @@
 # exersice_one
 
-Descripciín basisca de su Proyecto de POO ...
+#### Problema 1: Gestión Única de Conexión a Base de Datos
+**Enunciado**: Diseñas un sistema para una aplicación que requiere una única conexión a la base de datos. Muchas partes de tu aplicación necesitan realizar operaciones sobre la base de datos, pero es crítico que todas estas operaciones se realicen a través de la misma conexión para evitar conflictos y sobrecarga.
 
 # Autores
 
-- Autor 1
+- Juan Nicolas Castro h juann.castroh@uqvirtual.edu.co
 - Autor 2
 
 # Herramientas
