@@ -1,10 +1,11 @@
 # exersice_eleven
 
-Descripciín basisca de su Proyecto de POO ...
+#### Problema 11: Creación de Informes Dinámicos
+**Enunciado**: En un sistema de análisis de datos, los usuarios necesitan generar informes basados en un conjunto diverso de fuentes de datos y formatos (por ejemplo, PDF, HTML, CSV). Los requisitos exactos para cada informe varían significativamente dependiendo del usuario y de los datos específicos a analizar.
 
 # Autores
 
-- Autor 1
+- Juan Nicolas Castro juann.castroh@uqvirtual.edu.co
 - Autor 2
 
 # Herramientas

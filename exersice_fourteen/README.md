@@ -1,10 +1,11 @@
 # exersice_fourteen
 
-Descripciín basisca de su Proyecto de POO ...
+#### Problema 14: Plataforma de Juegos con Diferentes Tipos de Personajes
+**Enunciado**: Estás desarrollando una plataforma de juegos que permite a los jugadores elegir entre diferentes tipos de personajes (guerrero, mago, arquero). Cada personaje tiene habilidades y características únicas, y los jugadores pueden personalizar sus personajes a medida que avanzan en el juego.
 
 # Autores
 
-- Autor 1
+- - Juan Nicolas Castro juann.castroh@uqvirtual.edu.co
 - Autor 2
 
 # Herramientas

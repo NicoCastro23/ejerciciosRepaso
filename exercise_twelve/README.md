@@ -1,10 +1,11 @@
 # exercise_twelve
 
-Descripciín basisca de su Proyecto de POO ...
+#### Problema 12: Sistema de Notificaciones Multicanal
+**Enunciado**: Se requiere implementar un sistema de notificaciones que pueda enviar mensajes a través de diferentes canales (email, SMS, notificaciones push). El método de envío depende de las preferencias del usuario final y puede cambiar dinámicamente.
 
 # Autores
 
-- Autor 1
+- Juan Nicolas Castro juann.castroh@uqvirtual.edu.co
 - Autor 2
 
 # Herramientas
