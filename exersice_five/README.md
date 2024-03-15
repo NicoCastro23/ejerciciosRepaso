@@ -1,10 +1,11 @@
 # exersice_five
 
-Descripciín basisca de su Proyecto de POO ...
+#### Problema 5: Copia y Restauración de Estados de Objetos
+**Enunciado**: Estás desarrollando un editor de texto que permite a los usuarios deshacer cambios a sus documentos. Cada cambio altera el estado del documento, y los usuarios pueden querer volver a un estado anterior.
 
 # Autores
 
-- Autor 1
+- Juan Nicolas Castro juann.castroh@uqvirtual.edu.co
 - Autor 2
 
 # Herramientas

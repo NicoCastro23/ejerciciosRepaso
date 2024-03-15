@@ -1,10 +1,12 @@
 # exercise_two
 
-Descripciín basisca de su Proyecto de POO ...
+#### Problema 2: Creación de Componentes de Interfaz de Usuario
+**Enunciado**: Estás desarrollando un framework para interfaces de usuario que necesita crear distintos tipos de componentes (botones, ventanas, barras de desplazamiento) según el sistema operativo del usuario (Windows, Linux, macOS).
+
 
 # Autores
 
-- Autor 1
+- Juan Nicolas Castro juann.castroh@uqvirtual.edu.co
 - Autor 2
 
 # Herramientas

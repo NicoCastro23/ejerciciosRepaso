@@ -1,10 +1,11 @@
 # exersice_four
 
-Descripciín basisca de su Proyecto de POO ...
+#### Problema 4: Flexibilidad en la Creación de Objetos de Logística
+**Enunciado**: Estás implementando un sistema de logística y necesitas una forma de crear diferentes tipos de transporte (camión, barco, avión) para el envío de paquetes. Sin embargo, el tipo de transporte se decide en tiempo de ejecución basado en el destino y el tamaño del paquete.
 
 # Autores
 
-- Autor 1
+- Juan Nicolas Castro juann.castroh@uqvirtual.edu.co
 - Autor 2
 
 # Herramientas

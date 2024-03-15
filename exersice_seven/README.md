@@ -1,10 +1,12 @@
 # exersice_seven
 
-Descripciín basisca de su Proyecto de POO ...
+#### Problema 7: Implementación de Temas en una Aplicación
+**Enunciado**: Una aplicación necesita ofrecer diferentes temas visuales (oscuro, claro, contrastado) que afectan a todos los elementos de la interfaz de usuario. Los usuarios deben poder cambiar el tema dinámicamente.
+Nota: en este problema lo más relevante es la configuración del tema.
 
 # Autores
 
-- Autor 1
+- Juan Nicolas Castro juann.castroh@uqvirtual.edu.co
 - Autor 2
 
 # Herramientas

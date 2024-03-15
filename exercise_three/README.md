@@ -1,10 +1,11 @@
 # exercise_three
 
-Descripciín basisca de su Proyecto de POO ...
+#### Problema 3: Configuración de Objetos Complejos
+**Enunciado**: Necesitas desarrollar un sistema para configurar y desplegar servidores. Cada servidor puede tener una configuración muy detallada que incluye sistema operativo, cantidad de CPU, cantidad de RAM, tipo de red, etc. Las combinaciones son prácticamente infinitas.
 
 # Autores
 
-- Autor 1
+- Juan Nicolas Castro juann.castroh@uqvirtual.edu.co
 - Autor 2
 
 # Herramientas

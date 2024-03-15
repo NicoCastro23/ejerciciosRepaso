@@ -1,10 +1,11 @@
 # exersice_six
 
-Descripciín basisca de su Proyecto de POO ...
+#### Problema 6: Soporte para Múltiples Bases de Datos
+**Enunciado**: Estás creando un sistema de informes que necesita soportar múltiples bases de datos (por ejemplo, MySQL, PostgreSQL, SQLite). Los usuarios deben poder cambiar la base de datos fácilmente sin modificar el código fuente.
 
 # Autores
 
-- Autor 1
+- Juan Nicolas Castro juann.castroh@uqvirtual.edu.co
 - Autor 2
 
 # Herramientas

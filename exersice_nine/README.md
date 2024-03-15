@@ -1,10 +1,11 @@
 # exersice_nine
 
-Descripciín basisca de su Proyecto de POO ...
+#### Problema 9: Editor de Mapas para Juegos
+**Enunciado**: Estás construyendo un editor de mapas para un videojuego que permite a los diseñadores crear vastos mundos. Los elementos del mundo (árboles, edificios, ríos) tienen configuraciones complejas y se utilizan repetidamente.
 
 # Autores
 
-- Autor 1
+- Juan Nicolas Castro juann.castroh@uqvirtual.edu.co
 - Autor 2
 
 # Herramientas

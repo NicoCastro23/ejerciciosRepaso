@@ -1,10 +1,11 @@
 # exersice_eight
 
-Descripciín basisca de su Proyecto de POO ...
+#### Problema 8: Sistema de Mensajería Personalizable
+**Enunciado**: Necesitas desarrollar un sistema de mensajería que permita a los usuarios personalizar completamente sus mensajes con plantillas (por ejemplo, correo electrónico, SMS, mensajes de redes sociales). Las plantillas deben ser fácilmente extensibles para incluir nuevos tipos en el futuro.
 
 # Autores
 
-- Autor 1
+- Juan Nicolas Castro juann.castroh@uqvirtual.edu.co
 - Autor 2
 
 # Herramientas
